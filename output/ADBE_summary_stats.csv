@@ -1,0 +1,2 @@
+cagr_%,volatility_%,max_drawdown_%,rf_classification_accuracy,baseline_classification_accuracy,rf_regression_rmse,dense_rmse,lstm_rmse,baseline_rmse,strategy_sharpe,buy_hold_sharpe,strategy_cagr_%,buy_hold_cagr_%,monte_carlo_mean_ending_price,anomaly_days_found
+18.33,48.23,-79.89,0.5108,0.4655,0.02722,0.02662,0.02422,0.02241,0.584,0.681,12.33,19.57,688.31,190
